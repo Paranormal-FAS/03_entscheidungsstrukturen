@@ -1,2 +1,2 @@
-# entscheidungsstrukturen
+# Entscheidungsstrukturen
 Control structures
